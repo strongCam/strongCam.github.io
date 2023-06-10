@@ -5,8 +5,6 @@ categories: []
 tags: [demo]     # TAG names should always be lowercase
 ---
 
-[TOC]
-
 
 # First Post
 I am Strong Cam, a software developer who's interested in **Java** and  **Python** after 4 years of Computer Science education.
