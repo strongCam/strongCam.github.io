@@ -1,5 +1,5 @@
 ---
-title: TITLE
+title: First Post
 date: 2023-06-10 16:22:00 +/-0800
 categories: []
 tags: [demo]     # TAG names should always be lowercase
@@ -7,6 +7,6 @@ tags: [demo]     # TAG names should always be lowercase
 
 
 # First Post
-I am Strong Cam, a software developer who's interested in **Java** and  **Python** after 4 years of Computer Science education.
+My name is Strong Cam, a software developer with a keen interest in **Java** and **Python**, cultivated over four years of studying Computer Science.
 
-Here I would post down my thoughts about life, and technical notes on programming.
+Here I will share my thoughts on life and technical notes on programming.
